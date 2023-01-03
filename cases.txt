@@ -1,0 +1,1 @@
+[{"customerName":"Peter","startDate":"01.01.2023","isFinished":false,"fxFileId":"Peter-23-01"}]
