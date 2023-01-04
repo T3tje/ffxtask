@@ -2,8 +2,7 @@ POST http://localhost:3001/api/case/
 Content-Type: application/json
 
 {
-   "customerName":"T3tje",
-   "startDate":"01.01.2023",
+   "customerName":"Mustermax",
+   "startDate":"Wed Jan 04 2023 08:22:33 GMT+0100 (Central European Standard Time)",
    "isFinished":false,
-   "fxFileId":"Peter-23-01"
 }
