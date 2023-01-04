@@ -25,7 +25,6 @@ app.post("/api/case", jsonParser, (request, response) => {
 
   const highestNumberArray = allCases.map((item) => parseInt(item.fxFileId.slice(-2)))
 
-  console.log(Date())
   let highestNumber
 
   if (highestNumberArray.length === 0) {
