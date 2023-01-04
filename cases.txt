@@ -1,1 +1,1 @@
-[{"customerName":"Peter","startDate":"01.01.2023","isFinished":false,"fxFileId":"Peter-23-01"}]
+[{"customerName":"Max Muster","startDate":"Wed Jan 04 2023 08:22:33 GMT+0100 (Central European Standard Time)","isFinished":true,"fxFileId":"Max Muster-23-01"},{"customerName":"Max Muster2","startDate":"Wed Jan 04 2023 08:22:33 GMT+0100 (Central European Standard Time)","isFinished":false,"fxFileId":"Max Muster2-23-02"}]
